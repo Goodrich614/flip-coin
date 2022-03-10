@@ -1,7 +1,7 @@
 let heads = 0;
 let tails = 0;
 
-function flipCoin(randNum){
+function flipCoin(result){
 
     if (result == 1) {
         result = 'heads'
